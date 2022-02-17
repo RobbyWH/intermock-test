@@ -1,0 +1,29 @@
+{
+  "name": "intermock-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --verbose"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RobbyWH/intermock-test.git"
+  },
+  "author": "Robby Widyahartono",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RobbyWH/intermock-test/issues"
+  },
+  "homepage": "https://github.com/RobbyWH/intermock-test#readme",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "typescript": "^4.5.5"
+  },
+  "devDependencies": {
+    "@types/jest": "^27.4.0",
+    "intermock": "^0.2.5",
+    "jest": "^27.5.1",
+    "ts-jest": "^27.1.3"
+  }
+}
